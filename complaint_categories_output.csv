@@ -1,0 +1,249 @@
+booking_id,booking_status,booking_channel,airline,rule_category,clean_text
+CLR-00009,No-Show,B2B_Agent,KLM,Other,meal preference not available onboard
+CLR-00031,Ticketed,B2B_Agent,Singapore Airlines,Other,schedule change not communicated
+CLR-00034,Ticketed,B2C_Website,Air France,Other,meal preference not available onboard
+CLR-00061,Confirmed,Mobile_App,Condor,Other,connection time too short missed connecting flight
+CLR-00076,Refunded,API_Partner,Air Canada,Other,flight delayed by 3 hours requesting compensation
+CLR-00082,Cancelled,B2C_Website,Etihad Airways,Refund Issues,refund not processed after 30 days
+CLR-00087,Refunded,B2B_Agent,KLM,Other,duplicate charge on credit card for same booking
+CLR-00093,Cancelled,B2C_Website,Emirates,Baggage,unable to add extra baggage through portal
+CLR-00095,Ticketed,Mobile_App,Emirates,Other,schedule change not communicated
+CLR-00098,Cancelled,B2C_Website,Lufthansa,Other,connection time too short missed connecting flight
+CLR-00108,Cancelled,B2B_Agent,Emirates,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-00111,Refunded,API_Partner,Air France,Other,connection time too short missed connecting flight
+CLR-00112,Confirmed,B2B_Agent,Condor,Ticketing Issues,infant ticket pricing seems incorrect
+CLR-00113,Refunded,B2C_Website,Etihad Airways,Refund Issues,refund not processed after 30 days
+CLR-00127,Confirmed,B2B_Agent,Etihad Airways,Baggage,baggage not received at destination
+CLR-00134,Ticketed,API_Partner,British Airways,Ticketing Issues,name spelling error on ticket needs correction
+CLR-00138,Cancelled,API_Partner,British Airways,Baggage,baggage not received at destination
+CLR-00139,Cancelled,B2C_Website,Air France,Baggage,unable to add extra baggage through portal
+CLR-00143,Ticketed,B2B_Agent,American Airlines,Baggage,unable to add extra baggage through portal
+CLR-00153,No-Show,B2C_Website,Condor,Pricing Error,fare difference charged incorrectly during rebooking
+CLR-00163,Refunded,B2C_Website,British Airways,Other,pnr not found in airline system after ticketing
+CLR-00170,Cancelled,B2B_Agent,British Airways,Baggage,unable to add extra baggage through portal
+CLR-00177,Cancelled,B2C_Website,KLM,Other,pnr not found in airline system after ticketing
+CLR-00191,Confirmed,API_Partner,Air Canada,Other,flight delayed by 3 hours requesting compensation
+CLR-00192,Cancelled,B2C_Website,Emirates,Other,connection time too short missed connecting flight
+CLR-00200,No-Show,B2C_Website,Singapore Airlines,Pricing Error,fare difference charged incorrectly during rebooking
+CLR-00205,Refunded,B2B_Agent,Singapore Airlines,Other,emd for ancillary service not reflecting
+CLR-00226,Ticketed,B2B_Agent,Emirates,Pricing Error,fare difference charged incorrectly during rebooking
+CLR-00231,Confirmed,API_Partner,British Airways,Other,coupon status shows used but passenger never flew
+CLR-00240,Ticketed,API_Partner,British Airways,Other,seat allocation issue paid for window got middle
+CLR-00241,Cancelled,Mobile_App,Etihad Airways,Other,meal preference not available onboard
+CLR-00253,Cancelled,API_Partner,Emirates,Other,seat allocation issue paid for window got middle
+CLR-00260,Refunded,B2B_Agent,Singapore Airlines,Pricing Error,fare difference charged incorrectly during rebooking
+CLR-00264,Cancelled,B2B_Agent,Air France,Ticketing Issues,name spelling error on ticket needs correction
+CLR-00268,Cancelled,Mobile_App,American Airlines,Baggage,unable to add extra baggage through portal
+CLR-00277,Refunded,Mobile_App,Lufthansa,Pricing Error,fare difference charged incorrectly during rebooking
+CLR-00287,Ticketed,B2B_Agent,Air Canada,Ticketing Issues,name spelling error on ticket needs correction
+CLR-00290,Refunded,B2B_Agent,Air France,Ticketing Issues,infant ticket pricing seems incorrect
+CLR-00292,Cancelled,B2C_Website,KLM,Refund Issues,refund not processed after 30 days
+CLR-00298,Refunded,B2C_Website,Lufthansa,Other,pnr not found in airline system after ticketing
+CLR-00302,Refunded,B2C_Website,American Airlines,Baggage,baggage not received at destination
+CLR-00315,Confirmed,B2C_Website,American Airlines,Other,emd for ancillary service not reflecting
+CLR-00320,Confirmed,B2B_Agent,KLM,Ticketing Issues,infant ticket pricing seems incorrect
+CLR-00348,Ticketed,Mobile_App,Lufthansa,Other,seat allocation issue paid for window got middle
+CLR-00356,Ticketed,B2B_Agent,Singapore Airlines,Other,duplicate charge on credit card for same booking
+CLR-00372,Ticketed,B2C_Website,Air Canada,Other,meal preference not available onboard
+CLR-00374,Cancelled,B2C_Website,Condor,Refund Issues,refund not processed after 30 days
+CLR-00377,Ticketed,API_Partner,British Airways,Other,connection time too short missed connecting flight
+CLR-00384,Confirmed,API_Partner,Lufthansa,Ticketing Issues,name spelling error on ticket needs correction
+CLR-00393,Ticketed,Mobile_App,Singapore Airlines,Ticketing Issues,name spelling error on ticket needs correction
+CLR-00395,Ticketed,B2C_Website,Etihad Airways,Refund Issues,refund not processed after 30 days
+CLR-00397,Confirmed,API_Partner,Air France,Ticketing Issues,infant ticket pricing seems incorrect
+CLR-00399,Ticketed,B2C_Website,Emirates,Baggage,unable to add extra baggage through portal
+CLR-00404,Ticketed,API_Partner,Condor,Other,seat allocation issue paid for window got middle
+CLR-00407,Refunded,Mobile_App,British Airways,Other,connection time too short missed connecting flight
+CLR-00413,Cancelled,API_Partner,Air France,Ticketing Issues,name spelling error on ticket needs correction
+CLR-00425,Cancelled,B2C_Website,Emirates,Pricing Error,fare difference charged incorrectly during rebooking
+CLR-00447,Ticketed,B2B_Agent,Air Canada,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-00459,Confirmed,API_Partner,KLM,Other,pnr not found in airline system after ticketing
+CLR-00461,Cancelled,B2C_Website,KLM,Other,coupon status shows used but passenger never flew
+CLR-00465,Ticketed,B2B_Agent,KLM,Baggage,unable to add extra baggage through portal
+CLR-00470,Refunded,Mobile_App,Air Canada,Other,schedule change not communicated
+CLR-00471,Ticketed,B2B_Agent,KLM,Ticketing Issues,infant ticket pricing seems incorrect
+CLR-00485,Cancelled,B2B_Agent,Singapore Airlines,Ticketing Issues,infant ticket pricing seems incorrect
+CLR-00498,Cancelled,B2B_Agent,KLM,Baggage,unable to add extra baggage through portal
+CLR-00507,Ticketed,API_Partner,Emirates,Other,duplicate charge on credit card for same booking
+CLR-00510,Ticketed,B2B_Agent,KLM,Other,pnr not found in airline system after ticketing
+CLR-00515,Ticketed,Mobile_App,British Airways,Baggage,baggage not received at destination
+CLR-00529,Ticketed,B2C_Website,Etihad Airways,Ticketing Issues,name spelling error on ticket needs correction
+CLR-00530,Ticketed,B2B_Agent,Emirates,Other,emd for ancillary service not reflecting
+CLR-00533,Ticketed,B2B_Agent,Etihad Airways,Baggage,baggage not received at destination
+CLR-00534,Refunded,API_Partner,Lufthansa,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-00535,Cancelled,Mobile_App,Air France,Other,duplicate charge on credit card for same booking
+CLR-00544,Ticketed,B2B_Agent,Etihad Airways,Other,coupon status shows used but passenger never flew
+CLR-00560,Refunded,B2C_Website,American Airlines,Refund Issues,refund not processed after 30 days
+CLR-00577,Confirmed,B2B_Agent,American Airlines,Refund Issues,refund not processed after 30 days
+CLR-00581,Ticketed,B2C_Website,Lufthansa,Other,coupon status shows used but passenger never flew
+CLR-00605,Ticketed,B2C_Website,British Airways,Pricing Error,fare difference charged incorrectly during rebooking
+CLR-00619,Cancelled,B2B_Agent,Singapore Airlines,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-00621,Cancelled,B2B_Agent,Lufthansa,Ticketing Issues,name spelling error on ticket needs correction
+CLR-00626,Refunded,B2B_Agent,Lufthansa,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-00627,Refunded,B2B_Agent,Condor,Other,emd for ancillary service not reflecting
+CLR-00636,Confirmed,API_Partner,Etihad Airways,Refund Issues,refund not processed after 30 days
+CLR-00650,Ticketed,B2B_Agent,British Airways,Other,duplicate charge on credit card for same booking
+CLR-00653,Ticketed,Mobile_App,Emirates,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-00669,Refunded,B2C_Website,American Airlines,Other,schedule change not communicated
+CLR-00671,Ticketed,B2C_Website,British Airways,Refund Issues,refund not processed after 30 days
+CLR-00676,Refunded,B2C_Website,KLM,Ticketing Issues,infant ticket pricing seems incorrect
+CLR-00689,Cancelled,B2C_Website,British Airways,Ticketing Issues,name spelling error on ticket needs correction
+CLR-00692,No-Show,API_Partner,American Airlines,Other,emd for ancillary service not reflecting
+CLR-00697,Refunded,B2B_Agent,Air France,Other,pnr not found in airline system after ticketing
+CLR-00706,Ticketed,Mobile_App,Lufthansa,Other,meal preference not available onboard
+CLR-00717,Ticketed,B2B_Agent,Singapore Airlines,Other,flight delayed by 3 hours requesting compensation
+CLR-00718,Ticketed,B2C_Website,KLM,Refund Issues,refund not processed after 30 days
+CLR-00721,Ticketed,B2B_Agent,Lufthansa,Baggage,baggage not received at destination
+CLR-00729,Ticketed,B2C_Website,Lufthansa,Other,emd for ancillary service not reflecting
+CLR-00730,Ticketed,B2B_Agent,British Airways,Other,meal preference not available onboard
+CLR-00734,Refunded,API_Partner,American Airlines,Ticketing Issues,infant ticket pricing seems incorrect
+CLR-00742,Cancelled,B2B_Agent,Air France,Ticketing Issues,name spelling error on ticket needs correction
+CLR-00750,Cancelled,B2B_Agent,Air France,Other,flight delayed by 3 hours requesting compensation
+CLR-00754,Refunded,API_Partner,American Airlines,Other,emd for ancillary service not reflecting
+CLR-00772,Ticketed,B2B_Agent,Etihad Airways,Refund Issues,refund not processed after 30 days
+CLR-00783,Refunded,API_Partner,American Airlines,Baggage,baggage not received at destination
+CLR-00800,Cancelled,B2C_Website,Emirates,Pricing Error,fare difference charged incorrectly during rebooking
+CLR-00803,Ticketed,API_Partner,Etihad Airways,Ticketing Issues,infant ticket pricing seems incorrect
+CLR-00813,Ticketed,API_Partner,Singapore Airlines,Other,connection time too short missed connecting flight
+CLR-00815,Refunded,B2B_Agent,Emirates,Other,meal preference not available onboard
+CLR-00827,Ticketed,B2B_Agent,Air France,Baggage,baggage not received at destination
+CLR-00839,Ticketed,B2C_Website,Air France,Other,emd for ancillary service not reflecting
+CLR-00840,Ticketed,B2B_Agent,Lufthansa,Other,connection time too short missed connecting flight
+CLR-00845,Ticketed,B2B_Agent,Air Canada,Other,flight delayed by 3 hours requesting compensation
+CLR-00849,Cancelled,B2B_Agent,Condor,Ticketing Issues,name spelling error on ticket needs correction
+CLR-00857,Cancelled,B2B_Agent,Singapore Airlines,Other,pnr not found in airline system after ticketing
+CLR-00864,Ticketed,API_Partner,Etihad Airways,Refund Issues,refund not processed after 30 days
+CLR-00869,Cancelled,API_Partner,Air France,Other,emd for ancillary service not reflecting
+CLR-00877,Ticketed,B2C_Website,Condor,Other,meal preference not available onboard
+CLR-00879,Ticketed,B2C_Website,American Airlines,Other,coupon status shows used but passenger never flew
+CLR-00883,Cancelled,B2B_Agent,Singapore Airlines,Other,connection time too short missed connecting flight
+CLR-00899,Refunded,B2B_Agent,Air France,Other,meal preference not available onboard
+CLR-00900,Confirmed,B2C_Website,Condor,Other,emd for ancillary service not reflecting
+CLR-00906,Cancelled,B2C_Website,Air Canada,Pricing Error,fare difference charged incorrectly during rebooking
+CLR-00917,Refunded,B2C_Website,Singapore Airlines,Other,flight delayed by 3 hours requesting compensation
+CLR-00920,Cancelled,B2B_Agent,British Airways,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-00925,Cancelled,B2B_Agent,Condor,Refund Issues,refund not processed after 30 days
+CLR-00932,Ticketed,B2C_Website,Etihad Airways,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-00938,Ticketed,B2C_Website,Air France,Other,meal preference not available onboard
+CLR-00953,Refunded,B2C_Website,Condor,Other,pnr not found in airline system after ticketing
+CLR-00965,Cancelled,B2B_Agent,Condor,Pricing Error,fare difference charged incorrectly during rebooking
+CLR-00966,Cancelled,B2C_Website,American Airlines,Other,seat allocation issue paid for window got middle
+CLR-00971,Ticketed,B2B_Agent,American Airlines,Other,schedule change not communicated
+CLR-00978,Confirmed,B2B_Agent,Lufthansa,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-00989,Refunded,B2C_Website,Air France,Other,coupon status shows used but passenger never flew
+CLR-00990,Ticketed,B2B_Agent,Emirates,Baggage,unable to add extra baggage through portal
+CLR-00991,Cancelled,API_Partner,KLM,Other,meal preference not available onboard
+CLR-01006,Cancelled,B2B_Agent,Condor,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-01019,Refunded,B2B_Agent,American Airlines,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-01068,Refunded,API_Partner,British Airways,Refund Issues,refund not processed after 30 days
+CLR-01081,Ticketed,API_Partner,British Airways,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-01084,Ticketed,B2C_Website,KLM,Other,duplicate charge on credit card for same booking
+CLR-01101,Confirmed,Mobile_App,Etihad Airways,Other,duplicate charge on credit card for same booking
+CLR-01109,Ticketed,B2B_Agent,Singapore Airlines,Other,connection time too short missed connecting flight
+CLR-01122,Cancelled,B2B_Agent,Air France,Refund Issues,refund not processed after 30 days
+CLR-01126,Ticketed,B2C_Website,American Airlines,Ticketing Issues,infant ticket pricing seems incorrect
+CLR-01149,Ticketed,Mobile_App,Emirates,Ticketing Issues,name spelling error on ticket needs correction
+CLR-01154,Cancelled,B2B_Agent,American Airlines,Refund Issues,refund not processed after 30 days
+CLR-01156,Refunded,B2B_Agent,Air Canada,Other,seat allocation issue paid for window got middle
+CLR-01158,Cancelled,B2B_Agent,Singapore Airlines,Pricing Error,fare difference charged incorrectly during rebooking
+CLR-01162,Refunded,B2C_Website,Lufthansa,Other,meal preference not available onboard
+CLR-01166,Cancelled,B2B_Agent,American Airlines,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-01173,Ticketed,B2B_Agent,Air Canada,Baggage,baggage not received at destination
+CLR-01185,Refunded,B2C_Website,Lufthansa,Other,connection time too short missed connecting flight
+CLR-01187,Cancelled,B2B_Agent,Emirates,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-01198,Ticketed,Mobile_App,KLM,Ticketing Issues,infant ticket pricing seems incorrect
+CLR-01202,Ticketed,B2C_Website,KLM,Other,emd for ancillary service not reflecting
+CLR-01227,Confirmed,B2C_Website,Air Canada,Other,connection time too short missed connecting flight
+CLR-01232,Refunded,B2B_Agent,Emirates,Other,seat allocation issue paid for window got middle
+CLR-01236,Refunded,B2B_Agent,Air Canada,Baggage,baggage not received at destination
+CLR-01244,Ticketed,B2B_Agent,British Airways,Other,flight delayed by 3 hours requesting compensation
+CLR-01272,Ticketed,B2B_Agent,American Airlines,Other,pnr not found in airline system after ticketing
+CLR-01284,Ticketed,B2C_Website,Condor,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-01295,Refunded,B2B_Agent,British Airways,Other,emd for ancillary service not reflecting
+CLR-01303,Confirmed,B2B_Agent,Singapore Airlines,Baggage,unable to add extra baggage through portal
+CLR-01336,Refunded,Mobile_App,Emirates,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-01343,Confirmed,API_Partner,Condor,Other,duplicate charge on credit card for same booking
+CLR-01347,Cancelled,B2B_Agent,Singapore Airlines,Baggage,unable to add extra baggage through portal
+CLR-01349,Ticketed,API_Partner,Air France,Other,pnr not found in airline system after ticketing
+CLR-01352,Refunded,B2B_Agent,KLM,Ticketing Issues,name spelling error on ticket needs correction
+CLR-01363,Cancelled,API_Partner,Lufthansa,Other,duplicate charge on credit card for same booking
+CLR-01367,Ticketed,B2B_Agent,Air France,Other,meal preference not available onboard
+CLR-01372,Refunded,B2B_Agent,American Airlines,Other,emd for ancillary service not reflecting
+CLR-01380,Confirmed,Mobile_App,Condor,Other,seat allocation issue paid for window got middle
+CLR-01385,Ticketed,B2C_Website,Singapore Airlines,Other,seat allocation issue paid for window got middle
+CLR-01392,Ticketed,Mobile_App,Condor,Other,emd for ancillary service not reflecting
+CLR-01396,Refunded,Mobile_App,Emirates,Pricing Error,fare difference charged incorrectly during rebooking
+CLR-01402,Cancelled,B2B_Agent,Emirates,Ticketing Issues,name spelling error on ticket needs correction
+CLR-01414,Confirmed,B2B_Agent,KLM,Refund Issues,refund not processed after 30 days
+CLR-01420,Ticketed,API_Partner,Etihad Airways,Refund Issues,refund not processed after 30 days
+CLR-01444,Refunded,B2B_Agent,Etihad Airways,Other,flight delayed by 3 hours requesting compensation
+CLR-01448,Confirmed,B2C_Website,Lufthansa,Other,seat allocation issue paid for window got middle
+CLR-01455,Refunded,B2B_Agent,Air France,Other,flight delayed by 3 hours requesting compensation
+CLR-01475,Refunded,B2C_Website,Air Canada,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-01480,Cancelled,B2C_Website,Air France,Baggage,baggage not received at destination
+CLR-01493,Confirmed,Mobile_App,British Airways,Other,emd for ancillary service not reflecting
+CLR-01498,Ticketed,B2B_Agent,Air Canada,Other,emd for ancillary service not reflecting
+CLR-01517,Refunded,B2B_Agent,British Airways,Other,emd for ancillary service not reflecting
+CLR-01525,Ticketed,Mobile_App,Lufthansa,Other,emd for ancillary service not reflecting
+CLR-01528,Cancelled,B2B_Agent,Emirates,Other,pnr not found in airline system after ticketing
+CLR-01529,Refunded,API_Partner,Air France,Baggage,unable to add extra baggage through portal
+CLR-01540,Refunded,B2C_Website,Lufthansa,Other,coupon status shows used but passenger never flew
+CLR-01549,Cancelled,B2C_Website,Emirates,Other,meal preference not available onboard
+CLR-01550,Ticketed,Mobile_App,KLM,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-01563,Refunded,B2C_Website,British Airways,Baggage,baggage not received at destination
+CLR-01568,Refunded,B2C_Website,Etihad Airways,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-01571,Refunded,B2B_Agent,Singapore Airlines,Other,duplicate charge on credit card for same booking
+CLR-01572,Ticketed,API_Partner,Air Canada,Ticketing Issues,infant ticket pricing seems incorrect
+CLR-01582,Refunded,Mobile_App,American Airlines,Other,meal preference not available onboard
+CLR-01586,Refunded,B2C_Website,Emirates,Other,flight delayed by 3 hours requesting compensation
+CLR-01588,Refunded,Mobile_App,American Airlines,Other,meal preference not available onboard
+CLR-01592,Refunded,B2C_Website,Singapore Airlines,Other,connection time too short missed connecting flight
+CLR-01613,Cancelled,B2C_Website,American Airlines,Other,coupon status shows used but passenger never flew
+CLR-01619,Ticketed,B2B_Agent,American Airlines,Ticketing Issues,infant ticket pricing seems incorrect
+CLR-01622,Ticketed,B2C_Website,British Airways,Baggage,baggage not received at destination
+CLR-01645,Cancelled,B2B_Agent,Condor,Other,seat allocation issue paid for window got middle
+CLR-01647,Cancelled,B2B_Agent,Condor,Baggage,unable to add extra baggage through portal
+CLR-01650,Refunded,B2C_Website,Air France,Other,coupon status shows used but passenger never flew
+CLR-01651,Ticketed,B2C_Website,Etihad Airways,Other,seat allocation issue paid for window got middle
+CLR-01674,Refunded,B2C_Website,Singapore Airlines,Other,seat allocation issue paid for window got middle
+CLR-01680,Ticketed,B2B_Agent,Air Canada,Other,coupon status shows used but passenger never flew
+CLR-01688,No-Show,B2B_Agent,American Airlines,Baggage,unable to add extra baggage through portal
+CLR-01702,Ticketed,Mobile_App,KLM,Refund Issues,refund not processed after 30 days
+CLR-01713,Confirmed,B2C_Website,Emirates,Ticketing Issues,name spelling error on ticket needs correction
+CLR-01721,Ticketed,B2C_Website,Air France,Ticketing Issues,infant ticket pricing seems incorrect
+CLR-01730,Ticketed,B2C_Website,Air Canada,Other,pnr not found in airline system after ticketing
+CLR-01750,Confirmed,B2C_Website,Air Canada,Other,duplicate charge on credit card for same booking
+CLR-01771,Cancelled,B2C_Website,Etihad Airways,Baggage,unable to add extra baggage through portal
+CLR-01775,Cancelled,B2B_Agent,Singapore Airlines,Baggage,baggage not received at destination
+CLR-01777,Confirmed,B2C_Website,Emirates,Ticketing Issues,infant ticket pricing seems incorrect
+CLR-01781,Refunded,B2B_Agent,Condor,Other,schedule change not communicated
+CLR-01783,Ticketed,B2C_Website,Condor,Pricing Error,fare difference charged incorrectly during rebooking
+CLR-01784,Refunded,API_Partner,Air France,Other,flight delayed by 3 hours requesting compensation
+CLR-01786,Cancelled,B2B_Agent,KLM,Ticketing Issues,infant ticket pricing seems incorrect
+CLR-01796,Ticketed,API_Partner,Air France,Baggage,baggage not received at destination
+CLR-01801,Cancelled,B2C_Website,American Airlines,Other,duplicate charge on credit card for same booking
+CLR-01808,Ticketed,B2C_Website,KLM,Other,coupon status shows used but passenger never flew
+CLR-01818,Ticketed,Mobile_App,British Airways,Other,duplicate charge on credit card for same booking
+CLR-01828,Cancelled,API_Partner,Air France,Other,pnr not found in airline system after ticketing
+CLR-01837,Ticketed,B2B_Agent,Condor,Pricing Error,fare difference charged incorrectly during rebooking
+CLR-01839,Ticketed,B2C_Website,Air France,Other,meal preference not available onboard
+CLR-01869,Confirmed,B2B_Agent,Air France,Refund Issues,refund not processed after 30 days
+CLR-01893,Ticketed,API_Partner,Condor,Other,meal preference not available onboard
+CLR-01894,Refunded,B2B_Agent,KLM,Ticketing Issues,visa rejected but non refundable ticket purchased
+CLR-01895,Cancelled,B2C_Website,Lufthansa,Ticketing Issues,name spelling error on ticket needs correction
+CLR-01896,Cancelled,API_Partner,Etihad Airways,Other,seat allocation issue paid for window got middle
+CLR-01898,Ticketed,API_Partner,Lufthansa,Ticketing Issues,name spelling error on ticket needs correction
+CLR-01908,No-Show,B2B_Agent,Singapore Airlines,Other,seat allocation issue paid for window got middle
+CLR-01918,Refunded,B2C_Website,Air Canada,Other,coupon status shows used but passenger never flew
+CLR-01920,Ticketed,API_Partner,Emirates,Other,pnr not found in airline system after ticketing
+CLR-01923,Ticketed,API_Partner,Lufthansa,Other,meal preference not available onboard
+CLR-01928,Refunded,B2C_Website,Emirates,Other,coupon status shows used but passenger never flew
+CLR-01939,Ticketed,API_Partner,American Airlines,Ticketing Issues,infant ticket pricing seems incorrect
+CLR-01943,Ticketed,B2C_Website,Condor,Other,duplicate charge on credit card for same booking
+CLR-01948,Ticketed,API_Partner,Air France,Other,seat allocation issue paid for window got middle
+CLR-01950,Confirmed,B2C_Website,Air France,Other,coupon status shows used but passenger never flew
+CLR-01951,Cancelled,B2C_Website,Emirates,Other,duplicate charge on credit card for same booking
+CLR-01959,Cancelled,API_Partner,KLM,Baggage,unable to add extra baggage through portal
+CLR-01968,Cancelled,B2B_Agent,British Airways,Other,schedule change not communicated
+CLR-01975,Cancelled,B2C_Website,Air France,Other,coupon status shows used but passenger never flew
+CLR-02000,Refunded,B2B_Agent,Singapore Airlines,Other,meal preference not available onboard
